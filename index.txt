@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Raphael dos Santos</title>
+    <link rel="icon" href="https://img.pikbest.com/png-images/20241022/stealth-masked-hacker-gaming-logo-for-gamers_10991543.png!bw700" />
+</head>
+<body>
+    <h1>Exemplo das Principais Tags HTML</h1>
+    <p>Este é um parágrafo usando a tag p.</p>
+    <p>A tag spam é usada para marcar parte do texto</p>
+    <P>Texto em <b>negrito</b> com a tag strong</P>
+    <p>Texto em <i>itálico</i> com a tag em.</p>
+    <br>Esta linha será quebrada aqui
+    <br>porque usamos a tag br.
+
+    <h2>Sobre a empresa</h2>
+    <p>Somos estudantes de Desenvolvimento Web e estamos aprendendo a criar páginas usando HTML. Nosso objeto é dominar as principais tags e criar incriveis!</p>
+
+<footer>
+
+    <h3>Contato</h3>
+    <p>Para entrar em contato conosco, envie um email para: <a href="https://google.com.br">Clique no link para ir para o Google</a></p>
+    <p>© 2024 Todos os direitos reservados.</p>
+</footer>
+</body>
+</html>
